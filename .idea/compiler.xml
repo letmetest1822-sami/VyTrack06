@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="VyTrackTest" />
         <module name="VyTrack06" />
+        <module name="sami" />
       </profile>
     </annotationProcessing>
   </component>
